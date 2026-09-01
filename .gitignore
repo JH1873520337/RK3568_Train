@@ -1,0 +1,8 @@
+History/
+__Previews/
+Generated/
+Output/
+*.lck
+*.tmp
+*.log
+*.PrjPcbStructure
