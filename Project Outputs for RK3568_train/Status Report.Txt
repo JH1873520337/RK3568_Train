@@ -1,0 +1,10 @@
+Output: Protel
+Type  : ProtelNetlist
+From  : Project [RK3568_train.PrjPcb]
+   Generated File[RK3568_train.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:39:58 On 2026/9/4
