@@ -557,10 +557,14 @@ GenerateClassCluster=0
 DocumentUniqueId=CMRASEXO
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for RK3568_train\Design Rule Check - PCB1_1.html
+DocumentPath=Project Outputs for RK3568_train\BGA Escape Route - PCB1_1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for RK3568_train\Design Rule Check - PCB1_1.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for RK3568_train\RK3568_train.NET
 DItemRevisionGUID=
 
