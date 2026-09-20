@@ -556,6 +556,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMRASEXO
 
+[Document31]
+DocumentPath=Import_RK3568_PinPackageLength.pas
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for RK3568_train\BGA Escape Route - PCB1_1.html
 DItemRevisionGUID=
@@ -597,6 +614,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_ScriptingSystem]
+StartProcName=Import_RK3568_PinPackageLength.pas>Run
 
 [OutputGroup1]
 Name=Netlist Outputs
