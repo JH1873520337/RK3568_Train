@@ -586,24 +586,24 @@ DocumentPath=Project Outputs for RK3568_train\RK3568_train.NET
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=JH1873520337
+Name=ProjectVersion
+Value=V1.0.0
 
 [Parameter2]
-Name=BoardName
-Value=RK3568
+Name=Description
+Value=RK3568 开发板练习工程
 
 [Parameter3]
 Name=Date
 Value=2026-08-31
 
 [Parameter4]
-Name=Description
-Value=RK3568 开发板练习工程
+Name=BoardName
+Value=RK3568
 
 [Parameter5]
-Name=ProjectVersion
-Value=V1.0.0
+Name=Author
+Value=JH1873520337
 
 [Configuration1]
 Name=Sources
